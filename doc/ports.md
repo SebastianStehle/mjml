@@ -20,7 +20,6 @@ https://github.com/SebastianStehle/mjml-net
 
 ### Missing implementations / components
 
-- `mj-style[inline]`: not yet implemented for performance reasons.
 - `mj-html-attributes`: not yet implemented for performance reasons.
 
 ## Elixir: MJML (Rust NIFs for Elixir)
